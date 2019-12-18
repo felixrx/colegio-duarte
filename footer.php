@@ -1,0 +1,1 @@
+ <?php echo 'Derechos Reservados © Diseño WEB Nelyurit Narvaes'. '  ' .date(Y) ?>

@@ -1,0 +1,440 @@
+
+
+#botonera {
+    background-color: black;
+	width: 530px;
+    height: 30px;
+    float: right;
+    }
+
+.li {
+    width: 30px;
+    border: 2px 2px 2px 2px;
+    margin: 1px 1px 1px 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+ul#menu li a {
+	background-color: black;
+    color: white;
+    padding: 5px 30px;
+    text-decoration: none;
+    border:2px;
+	color: white;
+	}
+
+ul#menu li{
+	display: inline;
+	border: 5px;
+	}
+ul#menu li{
+    color: white;
+
+    }
+ul#menu li a:hover {
+	color: white
+    }
+
+#intermedio{
+    background-color: black;
+	width: 100%;
+	height: 50px;
+    margin: 0px 0px 0px 0px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    padding-top: 1px;
+    background-position: center;
+    }	
+
+
+#cabecera{
+    background-image: url("../imagenes/header.jpg");
+    background-repeat: no-repeat;
+    background-size: 1361px 632px;
+	width: 100%;
+	height: 520px;
+	border: 1px;
+    }
+#servicio {
+	background-image: url("../imagenes/fondonegro.jpg");
+    width: 100%;
+	
+	border: 1px;
+	margin-top: 0px
+    }	
+.p  {color: white;
+	font-family: verdana;
+	font-style: bold;
+	font-size: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;	
+	padding-top: 50px;
+	padding-bottom: 0px;
+    }
+.p2{color: white;
+	font-family: verdana;
+	font-style: bold;
+	font-size: 20px;
+	margin-top: 300px;
+    }
+.p3{color: white;
+	font-family: verdana;
+	font-style: bold;
+	font-size: 20px;
+	margin-top: 300px;
+    }
+
+#servicio1 {background: url("../imagenes/2.png");
+    background-repeat: no-repeat;
+    float: left;
+    width: 278px;
+    height: 378px;
+    border: 1px;
+    border-radius: 360px;
+    margin-top: 80px;
+    margin-left: 100px;
+    }
+#servicio2 {
+	background: url("../imagenes/3.png");
+	background-repeat: no-repeat;
+    float: left;
+    width: 278px;
+    height: 378px;
+    border: 1px;
+    border-radius: 360px;
+    margin-top: 80px;
+    margin-left: 150px;
+    }
+#servicio3 {background: url("../imagenes/4.png");
+	background-repeat: no-repeat;
+    float: left;
+    width: 278px;
+    height: 378px;
+    border: 1px;
+    border-radius: 360px;
+    margin-top: 80px;
+    margin-left: 150px;
+    }
+
+#contacto{background-image: url("../imagenes/mapacontacto.png");
+    background-color: #0b646a;
+	width: 100%;
+	height: 600px;
+	border: 1px;
+	}
+
+#formulario1{
+
+	background-color: transparent;
+	border: 1px;
+	width: 600px;
+	height: 300px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 150px;
+
+}
+#textarea{
+width: 500px;
+height: 220px;
+background-color: white;
+border-radius: 5px;
+margin-top: 30px;
+padding-left: 30px;
+}
+#formulario2{
+
+	background-color: transparent;
+	border: 1px;
+	width: 600px;
+	height: 200px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 150px;
+}
+.input1{
+width: 500px;
+height: 50px;
+background-color: white;
+border-radius: 5px;
+margin-top: 30px;
+padding-left: 30px;
+}
+#inputsub{
+	background-color: #0b646a;
+	opacity: 0.9;
+	color: white;
+	margin-top: 1px;
+	margin-left: 540px;
+	width: 200px;
+	height: 40px;
+	font-family: arial;
+
+
+}
+
+#mapa{
+	width: 100%;
+	height: 450px;
+	
+
+}
+
+#footer {
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	
+	
+	}
+#informacion{
+	background-color: black;
+	width: 300px;
+	height: 50px;
+	border: 5px;
+	border-color: black;
+	float: right;
+	font-style: arial;
+	color: white;
+	margin-left: 40px;
+	float: left;
+
+    }
+#autor{background-color: black;
+	width: 300px;
+	height: 50px;
+	float: right;
+	font-style: arial;
+	color: white;
+     }
+
+     #cont1 {
+     	background-color: transparent;
+   
+    float: left;
+    width: 900px;
+    height: 200px;
+    border: 1px;
+    border-radius: 30px;
+    margin-top: 250px;
+    margin-left: 20px;
+    border: 5px;
+}
+ #cont2 {
+     	background-image: url("../imagenes/button.png");
+   
+    float: left;
+    width: 180px;
+    height: 180px;
+    border: 1px;
+    border-radius: 10px;
+  margin-left: 20px;
+ margin-top: 15px;
+    border: 5px;
+}
+    #cont3 {
+     	
+  
+    float: left;
+    width:80px;
+    height: 120px;
+    border: 1px;
+    border-radius: 20px;
+  margin-left:180px;
+  margin-right: 180px;
+ margin-top: 25px;
+    border: 0px;
+    border-color: red;
+}
+
+
+
+#cont_modulo {
+        
+  
+    float: left;
+    width:80px;
+    height: 120px;
+    border: 1px;
+    border-radius: 20px;
+  margin-left:35px;
+  margin-right: 35px;
+ margin-top: 25px;
+    border: 0px;
+    border-color: red;
+}
+
+
+
+
+#cont4 {
+     
+    float: left;
+    width: 280px;
+    height: 180px;
+    border: 1px;
+    border-radius: 20px;
+  margin-left: 150px;
+ margin-top: 85px;
+ padding-left: 20px;
+   
+}
+#cont5 {
+     	background-image: url("../imagenes/button.png");
+        opacity: 0.5;
+   
+    float: left;
+    width: 180px;
+    height: 180px;
+    border: 1px;
+    border-radius: 20px;
+  margin-left: 30px;
+ margin-top: 15px;
+    border: 5px;
+}
+
+
+
+
+
+.zoom2 h4 {
+        transition: 1.5s ease;
+        -moz-transition: 1.5s ease; /* Firefox */
+        -webkit-transition: 1.5s ease; /* Chrome - Safari */
+        -o-transition: 1.5s ease; /* Opera */
+
+        margin-left: 30px;
+        color: black;
+        width: 100px;
+    }
+
+
+	
+
+    .jumbotron {
+background-image: url("../imagenes/fondonegro2.jpg");
+
+ padding-top: 20px;
+
+    height: 450px;
+
+
+    } 
+    #jumbotron {
+
+ border-radius: 0px  0px 25px 25px; 
+ padding-top: 180px;
+ margin-left: 20px;
+ margin-right: 20px;
+display:;
+
+
+    } 
+
+
+   #header { background-color: transparent;
+  
+    height: 50px;
+ border-radius: 0px 0px 13px 13px; 
+
+   
+    }
+       
+       #header2 { background-color: transparent;
+ border-radius: 0px 0px 13px 13px;   
+    height: 20px;
+ margin-left: 10px; 
+ margin-right: 10px;    
+
+
+   
+   
+    }
+
+
+#parrafo p{
+
+margin-left: 20px;
+text-transform: black;
+
+}
+
+    #row {
+
+
+
+height: 100%;
+
+    }
+
+   .zoom{
+        transition: 1.5s ease;
+        -moz-transition: 1.5s ease; /* Firefox */
+        -webkit-transition: 1.5s ease; /* Chrome - Safari */
+        -o-transition: 1.5s ease; /* Opera */
+
+
+       
+    }
+    .zoom:hover{
+        transform : scale(2);
+        -moz-transform : scale(2); /* Firefox */
+        -webkit-transform : scale(2); /* Chrome - Safari */
+        -o-transform : scale(2); /* Opera */
+        -ms-transform : scale(2); /* IE9 */
+    }
+
+
+
+    #parrafo{
+    
+color: black;
+        font-size: 10px;
+       
+        font: oblique bold 95% cursive;
+    }
+
+
+#modal-dialog {
+
+width: 75%;
+
+}
+
+#modal-dialog_notas {
+
+width: 850px;
+
+}
+
+#modal-dialog_notas2 {
+
+width: 920px;
+
+}
+
+
+
+#borde{
+
+
+    width: auto;
+height: auto;
+background-color: transparent;
+border-radius: 10px 10px 10px 10px;
+
+border-left-color: grey;
+border-right-color: grey;
+border-top-color: grey;
+border-bottom-color: grey;
+border-left-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-top-style: solid;
+padding-left: 50px;
+padding-right: 40px;
+padding-top: 20px;
+
+}
+

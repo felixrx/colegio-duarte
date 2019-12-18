@@ -1,0 +1,202 @@
+
+#borde2{
+
+
+    width: auto;
+height: 600px;
+background-color: transparent;
+border-radius: 10px 10px 10px 10px;
+border-left-color: grey;
+border-right-color: grey;
+border-top-color: grey;
+border-bottom-color: grey;
+border-left-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-top-style: solid;
+padding-left: 1px;
+padding-right: 1px;
+padding-top: 1px;
+padding-bottom: 1px;
+
+}
+
+
+
+
+
+#titulo{
+	float: left;
+width: 300px;
+height: 50px;
+background-color:;
+border: 1px;
+margin-left: 300px;
+
+
+}
+#periodo{
+	float: right;
+width: 200px;
+height: 140px;
+background-color: ;
+
+margin-top: 5px;
+margin-left: 70px;
+
+
+}
+#estudiante{
+	float: left;
+width: auto;
+height: auto;
+background-color: ;
+
+margin-top: 1px;
+margin-left: 10px;
+
+}
+#Materias{
+	float: left;
+	clear: both;
+width: auto;
+height: auto;
+background-color:;
+
+
+
+
+}
+#notas{
+	float: left;
+width: 200px;
+height: 300px;
+background-color: ;
+
+margin-top: 10px;
+
+}
+#recuadro_materias{
+	float: left;
+width:auto;
+height: auto;
+background-color: transparent;
+border-radius: 10px 10px 10px 10px;
+border-left-color: grey;
+border-right-color: grey;
+border-top-color: grey;
+border-bottom-color: grey;
+border-left-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-top-style: solid;
+margin-top: 4px;
+margin-left: 2px;
+
+
+}
+#recuadro_estudiante{
+	float: left;
+width: 740px;
+height: auto;
+background-color: transparent;
+border-radius: 10px 10px 10px 10px;
+border-left-color: grey;
+border-right-color: grey;
+border-top-color: grey;
+border-bottom-color: grey;
+border-left-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-top-style: solid;
+margin-top: 1px;
+margin-left: 1px;
+
+
+}
+
+.selector{
+	width: 200px;
+	margin-left: 2px;
+	margin-top: 4px;
+	border: none;
+}
+
+
+.tabla_titulo1{
+	width: 180px;
+border-radius: 0px 0px 0px 0px;
+border: 1px;
+border-style: solid;
+}
+
+
+.tabla_titulo2{
+width: 5px;
+text-align: center;
+border-radius: 0px 8px 0px 0px;
+border: 1px;
+border-style: solid;
+}
+
+.tabla_titulo3{
+width: 54px;
+border: 1px;
+border-style: solid;
+border-radius: 8px 0px 0px 0px;
+}
+.tabla{
+	margin: 2px 2px 2px 2px; 
+	border-radius: 10px 8px 8px 10px;
+	border-color: black;
+	
+	border: 1px;
+	border-style: solid;
+}
+.celda{
+	margin: 10px 10px 10px 10px; 
+		border-color: black;
+	border-radius: 8px 8px 8px 8px;
+	border: 1px;
+	border-style: solid;
+	border-left: none;
+	border-right: none;
+}
+
+
+.celda1{
+	background-image: url(../imagenes/templatemo_footer.png);
+	margin: 10px 10px 10px 10px; 
+		border-color: black;
+	border-radius: 8px 8px 8px 8px;
+	border: 1px;
+	border-style: solid;
+	border-left: none;
+	border-right: none;
+	
+	color: white;
+}
+
+
+
+.input {
+
+border-radius: 5px 5px 5px 5px;
+border-style: solid;
+border-color: black;
+width: 40px;
+margin-left: 25px;
+padding-left: 8px;
+}
+.input2{
+
+border-radius: 5px 5px 5px 5px;
+border-style: solid;
+border-color: grey;
+
+
+}
+
+#boton{
+	margin-left: 300px;
+}
